@@ -5,3 +5,5 @@ section: react-basics
 type: exercise
 
 prereqs: create-react-app, components, props
+
+orderingId: 600
